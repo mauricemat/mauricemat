@@ -3,6 +3,7 @@
 
 I am a self-learner and always motivated to learn new things. 
 My speciality is corporate communication and public affairs. 
+
 I am interested in:
 - Politics
 - International affairs
