@@ -1,5 +1,5 @@
 ﻿### Maurice Mateke
-_MauriceMat_
+![Self-learner](https://itpoonamsharma.files.wordpress.com/2017/02/growing-sdl.png?w=366&h=274)
 
 I am a self-learner and always motivated to learn new things. 
 My speciality is corporate communication and public affairs. 
