@@ -1,13 +1,14 @@
-﻿### Maurice Mateke
+### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> Maurice Mateke
  
  
- ![Self-learner](https://cdn.glitch.com/3935a0e5-1b1c-4fc2-b2b0-ca0a385972a7%2FVanilla-16.7s-248px.gif?v=1628867198190)
+ ![greeting gif](https://cdn.glitch.com/3935a0e5-1b1c-4fc2-b2b0-ca0a385972a7%2FVanilla-16.7s-248px.gif?v=1628867198190)
  
  <!-- blank line -->
 ----
 <!-- blank line -->
  
 
+<i class="fas fa-puzzle-piece" aria-hidden="true"></i>
 ```
 I am a self-learner and always motivated to learn new things. 
 My speciality is corporate communication and public affairs. 
@@ -24,7 +25,6 @@ My current challenge:  **To go from zero to the top of web programming**.
 My Hobbies: `Reading` `Travelling` `Cooking`
 
 Get in touch with me: [HERE](https://www.linkedin.com/in/maurice-mateke-162aba1b5/)
-
 
 <!---
 mauricemat/mauricemat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
