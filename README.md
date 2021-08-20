@@ -15,17 +15,18 @@ My speciality is corporate communication and public affairs.
 ----
 <!-- blank line -->
 
-`My areas of interest`
+### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> `My areas of interest`
 
-- Politics
-- International affairs
-- Digital communication 
+- Digital communication
+- Public affairs
+- International relations
+ 
 
-`My current challenge`
+### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> `My current challenge`
 
-**To go from zero to the top of web programming**.
+**To go from ZERO to the TOP in web programming**.
 
-`My Hobbies`
+### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> `My Hobbies`
 
 :books: **Reading** |
 :soccer: **Outdoor activities** |
@@ -34,7 +35,7 @@ My speciality is corporate communication and public affairs.
 
 
 
-`My IT skills`
+### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> `My IT skills`
 
 ![skills gif](https://cdn.glitch.com/3935a0e5-1b1c-4fc2-b2b0-ca0a385972a7%2Fezgif.com-gif-maker.gif?v=1629481953520)
  
@@ -44,11 +45,7 @@ My speciality is corporate communication and public affairs.
 <!-- blank line -->
 
 
-
-Get in touch with me: [HERE](https://www.linkedin.com/in/maurice-mateke-162aba1b5/)
-
-
-[1.1]: http://twitter.com/home/tXSoThF.png (twitter icon with padding)
+### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> Get in touch with me: [HERE](https://www.linkedin.com/in/maurice-mateke-162aba1b5/)
 
 <!---
 mauricemat/mauricemat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
